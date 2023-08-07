@@ -1,0 +1,5 @@
+# Please modify this file according to the README.md instructions
+
+client_id: your_client_id_here
+client_secret: your_client_secret_here
+playlist_id: your_playlist_id
